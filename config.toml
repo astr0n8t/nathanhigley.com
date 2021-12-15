@@ -1,7 +1,7 @@
 baseURL = 'https://nathanhigley.com/'
 languageCode = 'en-us'
 title = '@astr0n8t'
-theme = "hugo-themes-shell"
+theme = "Shell"
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Nathan Higley's Shell"
